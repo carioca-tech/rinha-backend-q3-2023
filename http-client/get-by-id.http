@@ -1,0 +1,3 @@
+GET http://localhost:9999/pessoas/f28030a2-44e4-11ee-a5ca-0242ac120002
+Content-Type: application/json
+Accept: application/json
